@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\bin\AuthForWebServices.dll.config
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\bin\AuthForWebServices.dll
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\bin\AuthForWebServices.pdb
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\obj\Debug\AuthForWebServices.dll
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\obj\Debug\AuthForWebServices.pdb
+D:\Visual Studio 2013\Community 2013\AuthForWebServices\AuthForWebServices\obj\Debug\AuthForWebServices.csprojResolveAssemblyReference.cache
